@@ -44,3 +44,7 @@ Documentation
 ---------------------------------
 
 View the full docs online at https://pyjwt.readthedocs.io/en/stable/
+
+Screenshots of Project
+------------------------------
+
